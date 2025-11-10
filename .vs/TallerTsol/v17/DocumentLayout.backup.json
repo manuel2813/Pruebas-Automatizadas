@@ -1,0 +1,665 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\stepdefinitions\\cuentasporpagarsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\stepdefinitions\\cuentasporpagarsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\stepdefinitions\\cuentasbancariassteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\stepdefinitions\\cuentasbancariassteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\features\\tesoreriayfinanzas\\cuentasbancarias.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\features\\tesoreriayfinanzas\\cuentasbancarias.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\pages\\cuentasbancariaspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\pages\\cuentasbancariaspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\pages\\accespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\pages\\accespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\pages\\ingresoegresopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\pages\\ingresoegresopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\stepdefinitions\\gastoreportesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\stepdefinitions\\gastoreportesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\pages\\gastoreportepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\pages\\gastoreportepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\stepdefinitions\\ingresoegresosteps.cs\u0060||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\stepdefinitions\\ingresoegresosteps.cs\u0060||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\features\\tesoreriayfinanzas\\ingresoegreso.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\features\\tesoreriayfinanzas\\ingresoegreso.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\features\\tesoreriayfinanzas\\cuentasporpagar.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\features\\tesoreriayfinanzas\\cuentasporpagar.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\pages\\cuentasporpagarpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\pages\\cuentasporpagarpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\pages\\reportviewerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\pages\\reportviewerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\pages\\helpers\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\pages\\helpers\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\pages\\consultagastospage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\pages\\consultagastospage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\features\\gastos\\gastoreporte.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\features\\gastos\\gastoreporte.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\features\\gastos\\conceptos.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\features\\gastos\\conceptos.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\features\\gastos\\gastos.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\features\\gastos\\gastos.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\stepdefinitions\\gastosstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\stepdefinitions\\gastosstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\stepdefinitions\\conceptosstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\stepdefinitions\\conceptosstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\pages\\conceptopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\pages\\conceptopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\pages\\financiamientopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\pages\\financiamientopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\stepdefinitions\\loginfeaturestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\stepdefinitions\\loginfeaturestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\pages\\registrogastopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\pages\\registrogastopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\stepdefinitions\\tomaratencionstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\stepdefinitions\\tomaratencionstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\stepdefinitions\\nuevaventastepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\stepdefinitions\\nuevaventastepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\pages\\tomaratencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\pages\\tomaratencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\pages\\registroventapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\pages\\registroventapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MANUEL\\AppData\\Local\\Temp\\21eafb17-bc9e-455c-b571-c1d125391e03_TallerTsol.zip.e03\\TallerTsol\\AutomatizacionPOM\\Pages\\ConsultaGastosPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\features\\nuevaventa.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\features\\nuevaventa.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|c:\\users\\manuel\\documents\\8vo ciclo\\calidad de producto de software\\tallertsol\\automatizacionpom\\features\\atencionsinmesa.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C501CF32-9202-44C6-BA19-8EE69F9D821C}|AutomatizacionPOM\\AutomatizacionPOM.csproj|solutionrelative:automatizacionpom\\features\\atencionsinmesa.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 290,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9a7cebbb-dc5c-4986-bc49-962da46aa506}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CuentasBancariasSteps.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\StepDefinitions\\CuentasBancariasSteps.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\StepDefinitions\\CuentasBancariasSteps.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\StepDefinitions\\CuentasBancariasSteps.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\StepDefinitions\\CuentasBancariasSteps.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAowFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T05:53:42.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CuentasBancarias.feature",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Features\\TesoreriayFinanzas\\CuentasBancarias.feature",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Features\\TesoreriayFinanzas\\CuentasBancarias.feature",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Features\\TesoreriayFinanzas\\CuentasBancarias.feature",
+              "RelativeToolTip": "AutomatizacionPOM\\Features\\TesoreriayFinanzas\\CuentasBancarias.feature",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBwAAAApAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-11-10T05:52:36.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CuentasBancariasPage.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\CuentasBancariasPage.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Pages\\CuentasBancariasPage.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\CuentasBancariasPage.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\Pages\\CuentasBancariasPage.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAA7wHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T05:52:12.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IngresoEgresoPage.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\IngresoEgresoPage.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Pages\\IngresoEgresoPage.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\IngresoEgresoPage.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\Pages\\IngresoEgresoPage.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwDAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T05:41:25.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccesPage.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\AccesPage.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Pages\\AccesPage.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\AccesPage.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\Pages\\AccesPage.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAowI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:41:50.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CuentasPorPagarSteps.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\StepDefinitions\\CuentasPorPagarSteps.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\StepDefinitions\\CuentasPorPagarSteps.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\StepDefinitions\\CuentasPorPagarSteps.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\StepDefinitions\\CuentasPorPagarSteps.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwCMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T05:28:54.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IngresoEgresoSteps.cs\u0060",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\StepDefinitions\\IngresoEgresoSteps.cs\u0060",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\StepDefinitions\\IngresoEgresoSteps.cs\u0060",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\StepDefinitions\\IngresoEgresoSteps.cs\u0060",
+              "RelativeToolTip": "AutomatizacionPOM\\StepDefinitions\\IngresoEgresoSteps.cs\u0060",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAcwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-10T05:42:13.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IngresoEgreso.feature",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Features\\TesoreriayFinanzas\\IngresoEgreso.feature",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Features\\TesoreriayFinanzas\\IngresoEgreso.feature",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Features\\TesoreriayFinanzas\\IngresoEgreso.feature",
+              "RelativeToolTip": "AutomatizacionPOM\\Features\\TesoreriayFinanzas\\IngresoEgreso.feature",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCEAAABQAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-11-10T05:41:46.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GastoReportePage.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\GastoReportePage.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Pages\\GastoReportePage.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\GastoReportePage.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\Pages\\GastoReportePage.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwCkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:41:06.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GastoReporteSteps.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\StepDefinitions\\GastoReporteSteps.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\StepDefinitions\\GastoReporteSteps.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\StepDefinitions\\GastoReporteSteps.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\StepDefinitions\\GastoReporteSteps.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:46:50.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CuentasPorPagar.feature",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Features\\TesoreriayFinanzas\\CuentasPorPagar.feature",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Features\\TesoreriayFinanzas\\CuentasPorPagar.feature",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Features\\TesoreriayFinanzas\\CuentasPorPagar.feature",
+              "RelativeToolTip": "AutomatizacionPOM\\Features\\TesoreriayFinanzas\\CuentasPorPagar.feature",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBwAAABoAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-11-10T05:28:34.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CuentasPorPagarPage.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\CuentasPorPagarPage.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Pages\\CuentasPorPagarPage.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\CuentasPorPagarPage.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\Pages\\CuentasPorPagarPage.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T05:27:56.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GastoReporte.feature",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Features\\Gastos\\GastoReporte.feature",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Features\\Gastos\\GastoReporte.feature",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Features\\Gastos\\GastoReporte.feature",
+              "RelativeToolTip": "AutomatizacionPOM\\Features\\Gastos\\GastoReporte.feature",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCEAAAAvAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-11-10T04:46:23.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportViewerPage.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\ReportViewerPage.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Pages\\ReportViewerPage.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\ReportViewerPage.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\Pages\\ReportViewerPage.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:45:58.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConsultaGastosPage.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\ConsultaGastosPage.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Pages\\ConsultaGastosPage.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\ConsultaGastosPage.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\Pages\\ConsultaGastosPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:29:13.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\Helpers\\Utilities.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Pages\\Helpers\\Utilities.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\Helpers\\Utilities.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\Pages\\Helpers\\Utilities.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAmwOkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T00:50:27.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Conceptos.feature",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Features\\Gastos\\Conceptos.feature",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Features\\Gastos\\Conceptos.feature",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Features\\Gastos\\Conceptos.feature",
+              "RelativeToolTip": "AutomatizacionPOM\\Features\\Gastos\\Conceptos.feature",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDcAAABEAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-11-05T05:10:35.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConceptoPage.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\ConceptoPage.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Pages\\ConceptoPage.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\ConceptoPage.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\Pages\\ConceptoPage.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAcwIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T05:56:37.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConceptosStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\StepDefinitions\\ConceptosStepDefinitions.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\StepDefinitions\\ConceptosStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\StepDefinitions\\ConceptosStepDefinitions.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\StepDefinitions\\ConceptosStepDefinitions.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAwwIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T05:57:06.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GastosStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\StepDefinitions\\GastosStepDefinitions.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\StepDefinitions\\GastosStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\StepDefinitions\\GastosStepDefinitions.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\StepDefinitions\\GastosStepDefinitions.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAwwAgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:05:40.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Gastos.feature",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Features\\Gastos\\Gastos.feature",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Features\\Gastos\\Gastos.feature",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Features\\Gastos\\Gastos.feature",
+              "RelativeToolTip": "AutomatizacionPOM\\Features\\Gastos\\Gastos.feature",
+              "ViewState": "AgIAALMCAAAAAAAAAAAcwMsCAAAwAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-11-03T02:18:56.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CalculatorStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T04:50:28.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Hooks\\Hooks.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Hooks\\Hooks.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Hooks\\Hooks.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\Hooks\\Hooks.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAYwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T23:48:46.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FinanciamientoPage.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\FinanciamientoPage.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Pages\\FinanciamientoPage.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\FinanciamientoPage.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\Pages\\FinanciamientoPage.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAA3wFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T05:55:48.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginFeatureStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\StepDefinitions\\LoginFeatureStepDefinitions.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\StepDefinitions\\LoginFeatureStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\StepDefinitions\\LoginFeatureStepDefinitions.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\StepDefinitions\\LoginFeatureStepDefinitions.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T04:28:46.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegistroGastoPage.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\RegistroGastoPage.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Pages\\RegistroGastoPage.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\RegistroGastoPage.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\Pages\\RegistroGastoPage.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAgwJQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:46:12.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TomarAtencionStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\StepDefinitions\\TomarAtencionStepDefinitions.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\StepDefinitions\\TomarAtencionStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\StepDefinitions\\TomarAtencionStepDefinitions.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\StepDefinitions\\TomarAtencionStepDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T04:10:46.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NuevaVentaStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\StepDefinitions\\NuevaVentaStepDefinitions.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\StepDefinitions\\NuevaVentaStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\StepDefinitions\\NuevaVentaStepDefinitions.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\StepDefinitions\\NuevaVentaStepDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T04:10:45.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TomarAtencion.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\TomarAtencion.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Pages\\TomarAtencion.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\TomarAtencion.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\Pages\\TomarAtencion.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAASwD4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:21:09.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegistroVentaPage.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\RegistroVentaPage.cs",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Pages\\RegistroVentaPage.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Pages\\RegistroVentaPage.cs",
+              "RelativeToolTip": "AutomatizacionPOM\\Pages\\RegistroVentaPage.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAA/wEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T00:43:20.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ConsultaGastosPage.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\AppData\\Local\\Temp\\21eafb17-bc9e-455c-b571-c1d125391e03_TallerTsol.zip.e03\\TallerTsol\\AutomatizacionPOM\\Pages\\ConsultaGastosPage.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\21eafb17-bc9e-455c-b571-c1d125391e03_TallerTsol.zip.e03\\TallerTsol\\AutomatizacionPOM\\Pages\\ConsultaGastosPage.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\AppData\\Local\\Temp\\21eafb17-bc9e-455c-b571-c1d125391e03_TallerTsol.zip.e03\\TallerTsol\\AutomatizacionPOM\\Pages\\ConsultaGastosPage.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\21eafb17-bc9e-455c-b571-c1d125391e03_TallerTsol.zip.e03\\TallerTsol\\AutomatizacionPOM\\Pages\\ConsultaGastosPage.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:28:54.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NuevaVenta.feature",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Features\\NuevaVenta.feature",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Features\\NuevaVenta.feature",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Features\\NuevaVenta.feature",
+              "RelativeToolTip": "AutomatizacionPOM\\Features\\NuevaVenta.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-11-03T00:42:01.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AtencionSinMesa.feature",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Features\\AtencionSinMesa.feature",
+              "RelativeDocumentMoniker": "AutomatizacionPOM\\Features\\AtencionSinMesa.feature",
+              "ToolTip": "C:\\Users\\MANUEL\\Documents\\8vo ciclo\\Calidad de producto de software\\TallerTsol\\AutomatizacionPOM\\Features\\AtencionSinMesa.feature",
+              "RelativeToolTip": "AutomatizacionPOM\\Features\\AtencionSinMesa.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBMAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-09-21T22:42:02.966Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

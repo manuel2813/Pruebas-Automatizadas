@@ -1,0 +1,88 @@
+﻿using AutomatizacionPOM.Pages;
+using NUnit.Framework;
+using OpenQA.Selenium;
+using Reqnroll.BoDi;
+
+namespace AutomatizacionPOM.StepDefinitions
+{
+    [Binding]
+    public class IngresoEgresoSteps
+    {
+        private readonly IWebDriver driver;
+        private readonly IngresoEgresoPage _ingresoEgresoPage;
+
+        public IngresoEgresoSteps(IObjectContainer container)
+        {
+            driver = container.Resolve<IWebDriver>();
+            _ingresoEgresoPage = new IngresoEgresoPage(driver);
+        }
+
+        // --- Pasos del 'When' (Acciones) ---
+
+        [When(@"el usuario marca el check ""Cobros""")]
+        public void WhenElUsuarioMarcaElCheckCobros()
+        {
+            _ingresoEgresoPage.MarcarCheckCobros();
+        }
+
+        [When(@"el usuario desmarca el check ""Pagos""")]
+        public void WhenElUsuarioDesmarcaElCheckPagos()
+        {
+            // En tu XPath, son radios, pero ClickButton funciona igual
+            // Asumimos que desmarcar Pagos es marcar Cobros
+            _ingresoEgresoPage.MarcarCheckCobros();
+        }
+
+        [When(@"el usuario marca el check ""Pagos""")]
+        public void WhenElUsuarioMarcaElCheckPagos()
+        {
+            _ingresoEgresoPage.MarcarCheckPagos();
+        }
+
+        [When(@"el usuario desmarca el check ""Cobros""")]
+        public void WhenElUsuarioDesmarcaElCheckCobros()
+        {
+            // Asumimos que desmarcar Cobros es marcar Pagos
+            _ingresoEgresoPage.MarcarCheckPagos();
+        }
+
+        [When(@"el usuario hace clic en el boton ""Consultar""")]
+        public void WhenElUsuarioHaceClicEnElBotonConsultar()
+        {
+            _ingresoEgresoPage.ClickConsultar();
+        }
+
+        [When(@"el usuario filtra por ""Pagador"" con ""([^""]*)""")]
+        public void WhenElUsuarioFiltraPorPagadorCon(string pagador)
+        {
+            _ingresoEgresoPage.FiltrarPorPagador(pagador);
+        }
+
+        [When(@"el usuario hace clic en el boton ""\$ INGRESO""")]
+        public void WhenElUsuarioHaceClicEnElBotonINGRESO()
+        {
+            _ingresoEgresoPage.ClickNuevoIngreso();
+        }
+
+        // --- Pasos del 'Then' (Verificaciones) ---
+
+        [Then(@"la grilla de ingresos/egresos se actualiza solo con ""Cobros""")]
+        public void ThenLaGrillaDeIngresosEgresosSeActualizaSoloConCobros()
+        {
+            _ingresoEgresoPage.VerificarSoloCobros();
+        }
+
+        [Then(@"la grilla de ingresos/egresos se actualiza solo con ""Pagos""")]
+        public void ThenLaGrillaDeIngresosEgresosSeActualizaSoloConPagos()
+        {
+            _ingresoEgresoPage.VerificarSoloPagos();
+        }
+
+        [Then(@"la grilla de ingresos/egresos se actualiza con ""([^""]*)""")]
+        public void ThenLaGrillaDeIngresosEgresosSeActualizaCon(string texto)
+        {
+            _ingresoEgresoPage.VerificarGrillaActualizada(texto);
+        }
+
+    }
+}
